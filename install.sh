@@ -51,6 +51,8 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/data/ssh/root/.ssh
+/system/data/ssh/shell/.ssh
 "
 
 ##########################################################################################
