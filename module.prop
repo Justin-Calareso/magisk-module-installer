@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=addMySSHKey
+name=Add My SSH Key
+version=v1.1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=justincalareso
+description=Adds my SSH key
